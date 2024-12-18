@@ -10,5 +10,6 @@ Apuntes de Herramientas Computacionales
 
 #### LibreOffice Base
 
+Requiere Java: (https://www.java.com/es/)
 
 [Tutorial Base](https://www.youtube.com/watch?v=qZG2d5gFyos)
